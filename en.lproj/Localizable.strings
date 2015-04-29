@@ -1,0 +1,111 @@
+/* 
+  Localizable.strings
+  Ming
+
+  Created by HuangLuyang on 14-5-7.
+  Copyright (c) 2014年 xiaowei wu. All rights reserved.
+*/
+/*  登录页面   */
+"suggestion" = "Tips";
+"noEmployeeID" = "Employee ID cannot be empty";
+"noPassword" = "Password cannot be empty";
+"cancel" = "Cancel";
+"confirm" = "Confirm";
+"wrongEmployeeID" = "Employee ID does not exist";
+"wrongPassword" = "Password is wrong";
+/*  主页  */
+"home" = "Homepage";
+"companyinformation" = "Information";
+"communication" = "Communication";
+"setting" = "Setting";
+/*  个人资料  */
+"personInfo" = "My Information";
+"selectAvatar" = "Select Avatar";
+"takePhoto" = "Take Photo";
+"choosePhoto" = "Choose Photo";
+/*  下拉刷新加载更多  */
+"下拉刷新" = "Pull to Refresh";
+"松开即可刷新" = "Release to Refresh";
+"加载中..." = "Refreshing";
+"上次刷新" = "Last Updated";
+"已加载全部数据" = "No More Data";
+"查看更多" = "View More";
+/*  应用  */
+"应用" = "Utility";
+/*  新闻  */
+"新闻" = "News";
+"cataid" = "14";
+/*  设置  */
+"当前版本" = "Version";
+"当前缓存" = "Cache";
+"清除本地缓存" = "Clear local cache";
+"确定退出登录" = "Confirm logout";
+"当前版本为最新" = "The current version is the latest";
+"有新版本，是否更新" = "Whether to upgrade to the latest version or not";
+"更新" = "Update";
+"关于" = "About";
+"帮助" = "Help";
+"清除成功" = "Clean Success";
+/*  邮箱查找  */
+"人员查找" = "Employee Search";
+"结果" = " results";
+"stringNotEnough" = "Please enter 3 or more characters in the query";
+"stringNotEnoughCH"="Please enter at least 2 characters in the query";
+/*  个人资产  */
+"个人资产" = "Asset";
+/*  异常考勤  */
+"异常考勤" = "Attendance";
+/*  未填工时  */
+"未填工时" = "Timesheet";
+/*  审批页面  */
+"审批列表" = "List";
+"批量操作" = "Batch";
+"今天" = "Today";
+"昨天" = "Yesterday";
+"没有选中任何消息" = "No Message Selected";
+"全选" = "All";
+"选择" = " Selected";
+/*  信息共享平台  */
+"文档" = "Document";
+"资料详情" = "Detail";
+"点击预览" = "Preview";
+"格式" = "The file format is not supported,share with people via AirDrop";
+"删除" = "Delete";
+"发送" = "Send";
+"删除文件" = "Delete local file ？";
+/*  项目健康度   */
+"项目健康度" = "Project Health";
+/*  网络连接  */
+"加载" = "Loading...";
+"网络异常" = "Network Error";
+"检查网络连接" = "Please check network connection";
+"重新加载" = "Reload";
+/*  审批操作  */
+"审批详情" = "Details";
+"同意" = "Approve";
+"拒绝" = "Reject";
+"审批成功" = "Success";
+"审批失败" = "Fail";
+"失败原因" = "Fail Reason";
+"待审批" = "To Approve";
+"已审批" = "Approved";
+"条审批成功" = "records of success";
+"条审批失败" = "records of failure";
+"Please confirm whether to approve" = "Please confirm whether to approve";
+"Please confirm whether to reject" = "Please confirm whether to reject";
+"deleted"="Deleted";
+"noFound"="NO Found";
+"AttachmentTitle"="Attachment";
+/*  超时  */
+"timeout" = "Sorry, your network is unstable now";
+
+"lang"="en-us";
+"lan"="us";
+
+"filenotfound"="File not found";
+
+"wait"="Please Wait...";
+/* Webview*/
+"数据加载失败" = "Failed to load data";
+"检查网络" = "Check whether the network is unobstructed";
+"返回首页" = "Back";
